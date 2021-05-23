@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AspNetCoreFromLocal/.vs/AspNetCoreFromLocal
+/AspNetCoreFromLocal/AspNetCoreFromLocal/bin/Debug/netcoreapp3.1
+/AspNetCoreFromLocal/AspNetCoreFromLocal/obj
